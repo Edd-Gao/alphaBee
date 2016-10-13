@@ -1,0 +1,15 @@
+[submodule "src/onboard_statemachine"]
+	path = src/onboard_statemachine
+	url = git@github.com:gaochangyu/onboard_statemachine.git
+[submodule "src/onboard_statemachine_msgs"]
+	path = src/onboard_statemachine_msgs
+	url = git@github.com:gaochangyu/onboard_statemachine_msgs.git
+[submodule "src/hover_controller"]
+	path = src/hover_controller
+	url = git@github.com:gaochangyu/hover_controller.git
+[submodule "src/hover_controller_msgs"]
+	path = src/hover_controller_msgs
+	url = git@github.com:gaochangyu/hover_controller_msgs.git
+[submodule "src/swarm_sitl_launcher"]
+	path = src/swarm_sitl_launcher
+	url = git@github.com:gaochangyu/swarm_sitl_launcher.git
